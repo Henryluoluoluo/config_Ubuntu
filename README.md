@@ -1,6 +1,7 @@
-# **关于Linux的配置**
+# **Linux学习笔记**
 
-## 配置文件
- *.bashrc*  
-*.tmux.conf*  
-*.bashrc*  
+ 
+[*关于vim tmux & bash 配置*](https://github.com/Henryluoluoluo/config_Ubuntu/tree/master/config)
+
+[*ssh 配置 & scp*](https://github.com/Henryluoluoluo/config_Ubuntu/tree/master/ssh_learning)
+
