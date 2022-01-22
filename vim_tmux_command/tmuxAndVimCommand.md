@@ -12,6 +12,7 @@
 9. `ctrl + a 、z`:放大窗口
 10. `ctrl + a 、[`:复制
 11. `ctrl + a 、[`:粘贴
+12. `tmux kill-session -t id`:关闭某个tmux session
 
 
 
